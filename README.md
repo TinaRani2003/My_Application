@@ -26,3 +26,9 @@
 
 ![Screenshot 2024-06-20 000037](https://github.com/TinaRani2003/My_Application/assets/160511456/50773c4c-befb-4e9f-a7a0-3600c14a0d04)                                               ![Screenshot 2024-06-20 003219](https://github.com/TinaRani2003/My_Application/assets/160511456/a0866b29-18c3-42f1-afe6-fead23884328)
 
+**
+**#Screenshot of Chips****
+
+
+
+![Screenshot 2024-06-20 205856](https://github.com/TinaRani2003/My_Application/assets/160511456/ff3eaaf2-31fe-4f4e-84f0-2fb548b41c32)
