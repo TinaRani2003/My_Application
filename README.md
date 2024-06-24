@@ -1,9 +1,12 @@
 
-**#Screenshot of text design**                                                                                
+**#Screenshot of text design**                                                                                                                               ** #Screenshot of topbar, bottombar and floating action
+**
 
+                                                                                                                                                            
+                                                                                                                                                              
+                                                                                                                                                             
 
-
-![Screenshot 2024-06-19 230955](https://github.com/TinaRani2003/My_Application/assets/160511456/8e28db5e-1dd7-42b4-8fae-a2acfc40b326)
+![Screenshot 2024-06-19 230955](https://github.com/TinaRani2003/My_Application/assets/160511456/8e28db5e-1dd7-42b4-8fae-a2acfc40b326)                              
 
 
 
@@ -58,3 +61,14 @@
 
 
 ![Screenshot 2024-06-24 010214](https://github.com/TinaRani2003/My_Application/assets/160511456/38e7c2e2-d696-4541-99de-ebfc6b77d8eb)
+
+
+
+
+
+
+
+**#Scrrenshot of topbar, bottombar and floating action**
+
+
+ ![Screenshot 2024-06-24 145305](https://github.com/TinaRani2003/My_Application/assets/160511456/5feeef3f-f7a0-498c-8092-2ef2f03f79f7)
