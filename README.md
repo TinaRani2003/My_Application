@@ -1,6 +1,5 @@
-
-**#Screenshot of text design**                                                                                                                               ** #Screenshot of topbar, bottombar and floating action
-**
+ 
+**#Screenshot of text design**                                                                                                                             
 
                                                                                                                                                             
                                                                                                                                                               
@@ -72,3 +71,15 @@
 
 
  ![Screenshot 2024-06-24 145305](https://github.com/TinaRani2003/My_Application/assets/160511456/5feeef3f-f7a0-498c-8092-2ef2f03f79f7)
+
+
+
+
+ **#Screenshot of navigation drawer and scaffold**
+
+
+
+ 
+
+![Screenshot 2024-06-24 212414](https://github.com/TinaRani2003/My_Application/assets/160511456/6d9724ac-d2a4-4a5b-8298-f85fd16c96b6)                                                 ![Screenshot 2024-06-24 212426](https://github.com/TinaRani2003/My_Application/assets/160511456/40ec214a-e209-4039-9557-2cd559bb8c2c)
+
