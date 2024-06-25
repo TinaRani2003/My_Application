@@ -195,9 +195,9 @@ class UserViewModel : ViewModel() {
     fun fetchUsers() {
         viewModelScope.launch {
             try {
-                val productList = repository.getUser()
-                _users.postValue(productList)
-                println(productList)
+                val userList = repository.getUser()
+                _users.postValue(userList)
+                println(userList)
             } catch (e: Exception) {
                 // Handle the exception
             }
