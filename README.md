@@ -83,3 +83,12 @@
 
 ![Screenshot 2024-06-24 212414](https://github.com/TinaRani2003/My_Application/assets/160511456/6d9724ac-d2a4-4a5b-8298-f85fd16c96b6)                                                 ![Screenshot 2024-06-24 212426](https://github.com/TinaRani2003/My_Application/assets/160511456/40ec214a-e209-4039-9557-2cd559bb8c2c)
 
+
+
+
+**#Screenshot of Signup, Signin using Firebase**
+
+
+
+
+![Screenshot 2024-06-25 174448](https://github.com/TinaRani2003/My_Application/assets/160511456/6ef9bd2a-db61-41f5-9d38-0ec83e4ea474)             ![Screenshot 2024-06-25 174523](https://github.com/TinaRani2003/My_Application/assets/160511456/03b07f45-0d1c-478a-a54a-a7c8f7013407)                                            ![Screenshot 2024-06-25 174711](https://github.com/TinaRani2003/My_Application/assets/160511456/ecfd3cfa-00ee-462e-b54c-a44799b00a2b)
